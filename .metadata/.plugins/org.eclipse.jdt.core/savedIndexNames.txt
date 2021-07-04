@@ -1,3 +1,0 @@
-INDEX VERSION 1.131+C:\yeji\study\.metadata\.plugins\org.eclipse.jdt.core
-1081804700.index
-1642175237.index
